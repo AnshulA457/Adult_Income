@@ -1,6 +1,6 @@
 # Adult_Income
 Data Analysis of Adult Income dataset present on kaggle  
-[Link text Here](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+[Adult Income dataset kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 Attribute information  
 Invoice id: Computer generated sales slip invoice identification number  
